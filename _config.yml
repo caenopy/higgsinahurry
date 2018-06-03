@@ -2,21 +2,21 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: Higgs in a Hurry
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "https://npb.space/higgs"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/duo/"
+baseurl: "/higgs/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "gest-alt"
 author:
-  twitter: "chibicode"
+  twitter: "gest-alt"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso

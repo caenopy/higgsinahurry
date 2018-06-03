@@ -6,11 +6,11 @@ title: Higgs in a Hurry
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://npb.space/higgs"
+url: "https://npb.space/higgsinahurry"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, remove this line.
-baseurl: "/higgs/"
+baseurl: "/higgsinahurry/"
 
 # Twitter IDs
 twitter:

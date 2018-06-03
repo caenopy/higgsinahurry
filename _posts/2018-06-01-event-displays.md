@@ -1,5 +1,5 @@
 ---
-title: "HTML Test Case"
+title: "Event Displays"
 # https://github.com/cbracco/html5-test-page/
 
 # To set og:image:

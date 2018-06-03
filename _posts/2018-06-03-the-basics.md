@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Feynman diagrams"
 
 # To set og:image:
 # image: ...

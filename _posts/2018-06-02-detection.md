@@ -1,5 +1,5 @@
 ---
-title: "Customize Duo"
+title: "ATLAS & CMS: How we detect particles"
 
 # To set og:image:
 # image: ...

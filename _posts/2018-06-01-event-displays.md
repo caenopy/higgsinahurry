@@ -14,7 +14,7 @@ The beauty of particle collisions at the LHC emerges in the **event display**. A
 The first experiments used photos for collision detection in the 1930s. For nearly fifty years, this was the only way by which scientists were able to assess particle interaction. When the digital age of computing exploded in the late 1970s, the first computer graphics were used to visualize different collisions. Event displays continued to grow more complex throughout the late 1990s, and today, many display 3D representations of the collision.
 
 
-## What can I do and what am I seeing?
+## Seeing collisions in action
 * [Navigate to CERN’s OpenData CMS event visualizer](http://opendata.cern.ch/visualise/events/cms)
 * Notice the different detecting features available on the left. To start the simulation, click on the open folder icon on the top left.
 * When prompted, choose “Open file(s) from the Web” and then choose “Higgs Candidates”

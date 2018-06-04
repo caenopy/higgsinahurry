@@ -17,7 +17,7 @@ The ATLAS and CMS experiments are two of the seven particle detector experiments
 
 ## ATLAS
 
-<embed src="/teilchenidentifikation.swf">
+<embed src="/teilchenidentifikation.swf" width="690" height="430">
 
 The ATLAS detector consists of several concentric cylinders which can measure the various properties of any elementary particle. The ATLAS detector is broken up into the following:
 

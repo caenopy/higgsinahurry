@@ -53,18 +53,4 @@ Like the ATLAS, the muon detectors detect muons which are similar leptons to ele
 
 **On 4 July 2012, both of the ATLAS and CMS experiments at CERN announced they had independently discovered an unknown boson with mass 125.3 ± 0.6 GeV/c.**
 
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe class="aspect-ratio--object" width="560" height="315" src="https://www.youtube.com/watch?v=pQhbhpU9Wrg" frameborder="0" allowfullscreen></iframe>
-</p>
-
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe
-    class="aspect-ratio--object"
-    width="560"
-    height="315"
-    src="https://www.youtube.com/watch?v=pQhbhpU9Wrg"
-    frameborder="0"
-    allowfullscreen></iframe>
-</p>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

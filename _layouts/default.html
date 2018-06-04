@@ -55,7 +55,7 @@
         <hr />
         <section class="pv2">
           {% assign home = site.pages | where:"url","/" %}
-          {{ home[0].content | markdownify }}
+          
         </section>
       {% endif %}
       {% if site.posts.size > 0 %}

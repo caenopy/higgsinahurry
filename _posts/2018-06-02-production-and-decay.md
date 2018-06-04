@@ -28,7 +28,7 @@ Once we have a Higgs, how can we see it?
 
 Similar to production, Higgs particles can decay into anything they couple to. From the previous discussion, it should be no surprise that decay probability is proportional to the mass of the decay products and how much available energy there is. Decay happens very quickly after its production (remember the Higgs’ mean lifetime is approximately 1.6 x 10-22 s), so the particles that result are actually how we find the Higgs!
 
-![](https://i.imgur.com/ebCNj7r.png)
+![](https://i.imgur.com/dIyy3V7.png)
 
 See that sliver of the pie dedicated to photon decay? Experimentalists love this. The total energy deposited by the two photons in the LHC’s electromagnetic calorimeters and their momentum can be measured very precisely (we’ll revisit this later).
 

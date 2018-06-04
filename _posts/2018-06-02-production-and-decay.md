@@ -20,7 +20,7 @@ Our question now is, how can we find a way to get top quarks to interact? When t
 
 At the Large Hadron Collider, *gluon-gluon fusion* is the most likely means to produce the Higgs particle, accounting for 87% of Higgs particles produced. Notice that the Feynman diagram shows how gluons inside the two colliding protons do not couple directly to the Higgs particle, as the Higgs can only couple to massive particles. Instead, they produce a virtual top quark/antitop quark loop that couple to the Higgs particle and recombine to produce it. It is important to note that the Higgs reacts proportionally to the mass of a particle—mass is like a “Higgs Charge” of sorts that relates to a Higgs field permeating all of space. Accordingly, top and bottom quarks are the heaviest quarks, so this process is generally thought of with loops of virtual top or bottom quarks.
 
-
+![](https://i.imgur.com/p44nPmL.png)
 
 A similar phenomenon occurs in another Higgs production method known as **vector boson fusion**. Notice that in this case it’s W and Z bosons that fuse into the Higgs particle, two of the next heaviest particles we know of. Other known methods of producing a Higgs include vector boson radiation and top radiation. For our purposes, we’ll move on to how the Higgs decays.
 
@@ -33,19 +33,11 @@ from [Stephen Perrenod](https://darkmatterdarkenergy.com/)
 
 See that sliver of the pie dedicated to photon decay? Experimentalists love this. The total energy deposited by the two photons in the LHC’s electromagnetic calorimeters and their momentum can be measured very precisely (we’ll revisit this later).
 
-
-
-
-
+![](https://i.imgur.com/Jq28gXB.png)
 
 Another favorable, though unlikely, possibility that pleases experimentalists is when the Higgs decays into a pair of Z bosons. The Z bosons decay into a pair of easily detectable charged leptons. The Higgs is most likely to decay into a heavy fermion-antifermion pair or split into a pair of massive W gauge bosons. These are much harder to detect, so the LHC collides protons many times until a more favorable decay can be observed.
 
-
-
-
-
-
-
+![](https://i.imgur.com/myghHFi.png)
 
 <p class="aspect-ratio aspect-ratio--16x9">
   <iframe class="aspect-ratio--object" width="560" height="315" src="https://www.youtube.com/embed/OFDAGiPJHL8" frameborder="0" allowfullscreen></iframe>

@@ -15,10 +15,10 @@ The first experiments used photos for collision detection in the 1930s. For near
 
 
 ## What can I do and what am I seeing?
-[Navigate to CERN’s OpenData CMS event visualizer](http://opendata.cern.ch/visualise/events/cms)
-Notice the different detecting features available on the left. To start the simulation, click on the open folder icon on the top left.
-When prompted, choose “Open file(s) from the Web” and then choose “Higgs Candidates”
-Select either diphoton.ig or 4lepton.ig. Figure 1 will show the diphoton products whereas Figure 2 will represent the 4lepton.ig event.  
+* [Navigate to CERN’s OpenData CMS event visualizer](http://opendata.cern.ch/visualise/events/cms)
+* Notice the different detecting features available on the left. To start the simulation, click on the open folder icon on the top left.
+* When prompted, choose “Open file(s) from the Web” and then choose “Higgs Candidates”
+* Select either diphoton.ig or 4lepton.ig. Figure 1 will show the diphoton products whereas Figure 2 will represent the 4lepton.ig event.  
 
 ![](https://i.imgur.com/QAqRHts.png)
 

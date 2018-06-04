@@ -5,38 +5,43 @@ title: "ATLAS & CMS: How we detect particles"
 # image: ...
 ---
 
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe class="aspect-ratio--object" src="https://www.youtube.com/watch?v=pQhbhpU9Wrg" frameborder="0" allowfullscreen></iframe>
+</p>
+
+The real story begins at the Large Hadron Collider, the largest most powerful particle collider in the world operated by the European Organization for Nuclear Research (CERN).
+
+ATLAS and CMS are two of the seven particle detector experiments within the Large Hadron Collider at CERN in Switzerland. The experiments were built on opposite sides of the complex to serve the same purpose with slightly different compromises and capabilities. In both experiments, the detecting mechanisms are built surrounding the interaction points of proton-proton collisions.
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/LHC.svg/800px-LHC.svg.png)
-
-The real beginnings of our story starts at the Large Hadron Collider, the largest most powerful particle collider in the world operated by the European Organization for Nuclear Research (CERN).
-
-The ATLAS and CMS experiments are two of the seven particle detector experiments within the Large Hadron Collider at CERN in Switzerland. The experiments were built on opposite sides of the complex to serve the same purpose and complement one another. In both experiments, the detecting mechanisms are built surrounding the interaction points of proton-proton collisions. Both experiments are also most well-known for their observations of the production, decay, and interactions of the Higgs boson particle.
-
-<embed src="/teilchenidentifikation.swf" width="690" height="430">
 
 ## ATLAS
 
-The ATLAS detector consists of several concentric cylinders which can measure the various properties of any elementary particle. The ATLAS detector is broken up into the following:
+![](http://scipp.ucsc.edu/personnel/atlasdet.jpg)
+[Source](https://cds.cern.ch/record/841458/?ln=en)
+
+The ATLAS detector consists of several concentric cylinders which can measure the various properties of any elementary particle. As we break them down, play around with the applet below!
+
+<embed src="/teilchenidentifikation.swf" width="690" height="430">
 
 ### Inner Detectors
-Tracks charged particles based upon their respective interaction with different materials at various points of the experiment.
+The first layer of detection involves tracking charged particles as based upon their respective interaction with different materials at various points of the experiment. A magnetic field bends their paths which gives us information about each particles momentum.
 
-### Calorimeters
-The two calorimeters within the system are both sampling calorimeters, or calorimeters that absorb the energy of the particle in a high-density metal.
-* High density metals include lead and copper. The lead acts as the interactor whereas the copper electrodes collect the deposited energy. Liquid argon separates the metals.
-* Particles will interact with the lead and cause a particle shower of new photons and electrons. Such showers will be able to displace electrons in the argon, which can be measured by the copper electrodes.
-* Based on the electric current of all of the detected electrons, scientists can determine the energy of the original particle.
+### Electromagnetic Calorimeter
+ATLAS’s Electromagnetic Calorimeter measures the energy of electromagnetically interacting particles by sampling the energy a particle deposits in a high-density metal. High density metals include lead and copper. The lead acts as the interactor whereas the copper electrodes collect the deposited energy. Liquid argon separates the metals. Particles interacting with the lead cause a *particle shower of new photons and electrons*. Such showers will be able to displace electrons in the argon, which can be measured by the copper electrodes.
+
+### Hadronic Calorimeter
+The Hadronic Calorimeter detects the energy of *hadrons* (like protons, neutrons, and pions). In the applet above, notice that the hadrons are produced in *jets* and leave energy along both calorimeters.
 
 ### Muon System
-* The Muon Spectrometer is the largest part of the experiment.
-* The shear size allows for ATLAS to accurately measure the momentum of muons as these leptons are able to pass through all other parts of the experiment undetected.
+The last layer belongs to the Muon Spectrometer. These are able to accurately measure the momentum of muons as these leptons are able to pass through all other parts of the experiment undetected.
 
 ### Magnet System
-* The magnetic system curves the path of charged particles in the Inner Detector and Muon Spectrometer.
-* The direction of the curve indicates the charge of the particle while the amount it curves reveals its momentum.
+The magnetic system curves the path of charged particles in the Inner Detector and Muon Spectrometer. As mentioned, the direction of the curve indicates the charge of the particle while the amount it curves reveals its momentum.
 
 ## CMS
 
-Elements of the CMS experiment are similar to ATLAS, but it is important to note that it tracks the particles in a much different way. The experiment weighs around 14,000 tonnes and consists of the following five layers:
+Elements of the CMS experiment are similar to ATLAS, but it is important to note that it tracks the particles in a different way. The experiment weighs around 14,000 tonnes and consists of the following five layers:
 
 ### The Tracker
 The momentum of the particle is tracked based on the particle's curvature throughout a magnetic field. The CMS tracker monitors the location of the particle at certain points in order to calculate its momentum.
@@ -54,5 +59,3 @@ The CMS magnet has a 4 Tesla magnetic field that is 100,000 times stronger than 
 Like the ATLAS, the muon detectors detect muons which are similar leptons to electrons but two hundred times more massive. The muon detector of the CMS is the outermost layer and very important as one of the biggest indicators of Higgs decay are four muon products.
 
 **On 4 July 2012, both of the ATLAS and CMS experiments at CERN announced they had independently discovered an unknown boson with mass 125.3 ± 0.6 GeV/c.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

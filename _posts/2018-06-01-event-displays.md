@@ -22,8 +22,10 @@ The first experiments used photos for collision detection in the 1930s. For near
 
 ![](https://i.imgur.com/QAqRHts.png)
 *Figure 1.*
+
 Above is the event data of a Higgs decay into two photons. Notice that the there is no track data within the inner detector, and thus no track data pointing to the calorimeter. This is indicative of the fact that photons cannot be detected by the electromagnetic calorimeter, but they can be detected by the hadronic calorimeter.
 
 ![](https://i.imgur.com/EAdDYSb.png)
 *Figure 2.*
+
 The four leptons that result from the decay of the Higgs are detected by the outermost muon detectors (red). The muons technically interact with the electromagnetic field, but since they are nearly 200 times more massive than the electron, they do not lose nearly as much energy in their path. Thus, there is no visible detection in the electromagnetic calorimeter.

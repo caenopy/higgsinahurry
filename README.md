@@ -1,4 +1,4 @@
-![](https://img.purch.com/h/1400/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAxNS84Njcvb3JpZ2luYWwvY2Vybi1wYXJ0aWNsZXMtbGhjLmpwZw==)
+![](https://i.imgur.com/S0eeNQT.png)
 
 > This guide assumes a degree non-mathematical understanding of the Standard Model and Feynman Diagrams. We find that Quantum Diaries’ guide to [Feynman Diagrams](https://www.quantumdiaries.org/2010/02/14/lets-draw-feynman-diagams/), CERN’s description of the [Standard Model](https://home.cern/about/physics/standard-model) and Frank Wilczek's article on the [Higgs Mechanism](http://web.mit.edu/physics/news/physicsatmit/wilczek_physicsatmit_2013.pdf) to be excellent introductions.
 

@@ -8,7 +8,7 @@ title: "Higgs Production and Decay"
 
 Put simply, the Higgs particle is extraordinarily difficult to create. Not only is it produced in *less than a billionth of the collisions* at the Large Hadron Collider, but it also exists on the order of 10<sup>-22</sup> seconds before interacting with other matter — a lifetime is far too short to be measured directly. To understand how the LHC pulled it off, we have two main questions to investigate:
 
-How we can make a Higgs boson?
+## How we can make a Higgs boson?
 
 When protons collide in the Large Hadron Collider, their interactions can result in a whole host of outcomes. Sometimes photons are produced, carrying energy locked up within the momentum and mass of the colliding particles by E = mc<sup>2</sup> (energy = mass). Other times, we get other particles, and *in very rare cases* we can get a Higgs. How?
 
@@ -24,7 +24,7 @@ At the Large Hadron Collider, *gluon-gluon fusion* is the most likely means to p
 
 A similar phenomenon occurs in another Higgs production method known as **vector boson fusion**. Notice that in this case it’s W and Z bosons that fuse into the Higgs particle, two of the next heaviest particles we know of. Other known methods of producing a Higgs include vector boson radiation and top radiation. For our purposes, we’ll move on to how the Higgs decays.
 
-Once we have a Higgs, how can we see it?
+## Once we have a Higgs, how can we see it?
 
 Similar to production, Higgs particles can decay into anything they couple to. From the previous discussion, it should be no surprise that decay probability is proportional to the mass of the decay products and how much available energy there is. Decay happens very quickly after its production (remember the Higgs’ mean lifetime is approximately 1.6 x 10-22 s), so the particles that result are actually how we find the Higgs!
 

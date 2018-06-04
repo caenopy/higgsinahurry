@@ -9,7 +9,7 @@ title: "Event Displays"
 ![](https://www.symmetrymagazine.org/sites/default/files/breaking/wp-content/uploads/2010/03/CMS-Decoded-2-copy.jpg)
 [Source](https://www.symmetrymagazine.org/breaking/2010/03/16/cms-event-display-decoded)
 
-The beauty of particle collisions at the LHC emerges in the event display. Accelerators use **event displays** in order to trace the path of the particles after each collision. Each event display has several key components such as event title, event number, run number, as well as the date of the experiment. This allows for scientists to access and report individual events and compare data with ease.
+The beauty of particle collisions at the LHC emerges in the **event display**. Accelerators use event displays in order to trace the path of the particles after each collision like in the image above. Each event display has several key components such as event title, event number, run number, as well as the date of the experiment. This allows for scientists to access and report individual events and compare data with ease.
 
 The first experiments used photos for collision detection in the 1930s. For nearly fifty years, this was the only way by which scientists were able to assess particle interaction. When the digital age of computing exploded in the late 1970s, the first computer graphics were used to visualize different collisions. Event displays continued to grow more complex throughout the late 1990s, and today, many display 3D representations of the collision.
 

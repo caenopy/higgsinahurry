@@ -50,28 +50,7 @@
       {% else %}
         <section class="pv2">
           <h1 class="mt0 mb1">{{page.title}}</h1>
-          {% if page.date %}
-            <p class="silver mt0">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
-          {% endif %}
-          <p class="twitter-share-button-wrapper">
-            <a class="twitter-share-button"
-            href="https://twitter.com/intent/tweet"
-            data-size="large"
-            data-via="{{ site.twitter.username }}">
-            Tweet</a>
-          </p>
           {{content}}
-          {% if page.date %}
-            <p class="silver">
-              <time datetime="{{ page.date | date_to_xmlschema }}">
-                {{page.date | date: site.date_format }}
-              </time>
-            </p>
-          {% endif %}
         </section>
         <hr />
         <section class="pv2">

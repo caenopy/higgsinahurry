@@ -5,58 +5,54 @@ title: "ATLAS & CMS: How we detect particles"
 # image: ...
 ---
 
-## Step 1: Customize `_config.yml`
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/LHC.svg/800px-LHC.svg.png)
 
-- Edit `_config.yml`, and change to change the site's title, URL, etc.
-- Please change all the entries under `Customize Options: Must Change`.
+The real beginnings of our story starts at the Large Hadron Collider, the largest most powerful particle collider in the world operated by the European Organization for Nuclear Research (CERN).
 
-## Step 2: Write Articles
+The ATLAS and CMS experiments are two of the seven particle detector experiments within the Large Hadron Collider at CERN in Switzerland. The experiments were built on opposite sides of the complex to serve the same purpose and complement one another. In both experiments, the detecting mechanisms are built surrounding the interaction points of proton-proton collisions. Both experiments are also most well-known for their observations of the production, decay, and interactions of the Higgs boson particle.
 
-- Change `README.md`, which will appear on the home page and also at the bottom of each article page.
-- Then write articles under `_posts`.
-- If you don't have anything under `_posts`, then duo will be a single-page site.
-- If you want to add a Youtube video, read: [Responsive Youtube Example](/duo/posts/responsive-youtube-example/)
+## ATLAS
 
-## Step 3: Deploy
+The ATLAS detector consists of several concentric cylinders which can measure the various properties of any elementary particle. The ATLAS detector is broken up into the following:
 
-If you `git clone`'d `duo`, then make sure to Change your git repository's `origin` before pushing:
+### Inner Detectors
+Tracks charged particles based upon their respective interaction with different materials at various points of the experiment.
 
-```bash
-git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
-```
+### Calorimeters
+The two calorimeters within the system are both sampling calorimeters, or calorimeters that absorb the energy of the particle in a high-density metal.
+* High density metals include lead and copper. The lead acts as the interactor whereas the copper electrodes collect the deposited energy. Liquid argon separates the metals.
+* Particles will interact with the lead and cause a particle shower of new photons and electrons. Such showers will be able to displace electrons in the argon, which can be measured by the copper electrodes.
+* Based on the electric current of all of the detected electrons, scientists can determine the energy of the original particle.
 
-## Optional
+### Muon System
+* The Muon Spectrometer is the largest part of the experiment.
+* The shear size allows for ATLAS to accurately measure the momentum of muons as these leptons are able to pass through all other parts of the experiment undetected.
 
-These steps are optional.
+### Magnet System
+* The magnetic system curves the path of charged particles in the Inner Detector and Muon Spectrometer.
+* The direction of the curve indicates the charge of the particle while the amount it curves reveals its momentum.
 
-### Customize HTML
+## CMS
 
-- All of the HTML is written in `_layouts/default.html`.
+Elements of the CMS experiment are similar to ATLAS, but it is important to note that it tracks the particles in a much different way. The experiment weighs around 14,000 tonnes and consists of the following five layers:
 
-### Customize CSS
+### The Tracker
+The momentum of the particle is tracked based on the particle's curvature throughout a magnetic field. The CMS tracker monitors the location of the particle at certain points in order to calculate its momentum.
 
-- You can use any of the classes from [Tachyons](http://tachyons.io/) CSS library, as well as [colors from material design](https://github.com/shuhei/material-colors)
-- CSS is preprocessed using [Laravel Mix](https://github.com/JeffreyWay/laravel-mix/), a [Webpack](https://webpack.js.org/) wrapper.
-- To edit CSS, first install [`yarn`](https://yarnpkg.com/en/), and run:
+### The Electromagnetic Calorimeter
+The electromagnetic calorimeter is made of lead-tungstate crystals. Much like ATLAS, the emitted electrons and photos of the collision interact with the lead atoms, but the key difference is that shower excites the atoms in the crystal. In the process of de-excitation, the crystals release photons, which are then counted to determine the energy of the initial particle.
 
-```bash
-# Download npm modules
-yarn install
+### The Hadronic Calorimeter
+This part of the detector measures the energy of hadrons. A hadron is defined as any particle made up of quarks and gluons such as a proton or neutron. Neutrinos usually cannot be detected, but their presence can be monitored by the Hadron Calorimeter in any momentum imbalance observed during particle detection.
 
-# Run Jekyll and also watch for CSS changes
-yarn watch
-```
+### The Magnet
+The CMS magnet has a 4 Tesla magnetic field that is 100,000 times stronger than the Earth's. The charge/mass ratio can be determined based on the path they take in the field. The greater the particle momentum, the lesser the curve of the path. Originally, the CMS was to have a much stronger magnet because, as the field strength increased, the particles would bend more, allowing for more accurate detection of the momentum of particles with higher energy. However, to increase longevity, the field was kept at a maximum of 4 T.
 
-- Then edit `_static/app.css`, then wait for it to be compiled into `static/app.css`.
-- You can also edit `webpack.mix.js` to customize Webpack config.
+### The Muon Detectors
+Like the ATLAS, the muon detectors detect muons which are similar leptons to electrons but two hundred times more massive. The muon detector of the CMS is the outermost layer and very important as one of the biggest indicators of Higgs decay are four muon products.
 
-### Customize Favicon
+**On 4 July 2012, both of the ATLAS and CMS experiments at CERN announced they had independently discovered an unknown boson with mass 125.3 ± 0.6 GeV/c.**
 
-Favicon is generated using [`favicon-emoji`](https://github.com/albinekb/favicon-emoji).
-
-### Enabled Jekyll Plugins
-
-- [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag/) for meta/og tag generation
-- [jekyll-feed](https://github.com/jekyll/jekyll-feed) for RSS feed generation
-- [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) for sitemap generation
-- [jemoji](https://github.com/jekyll/jemoji) for GitHub style emojis
+<p class="aspect-ratio aspect-ratio--16x9">
+  <iframe class="aspect-ratio--object" width="560" height="315" src="https://www.youtube.com/watch?v=pQhbhpU9Wrg" frameborder="0" allowfullscreen></iframe>
+</p>

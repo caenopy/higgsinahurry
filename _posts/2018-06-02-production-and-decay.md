@@ -40,7 +40,3 @@ Another favorable, though unlikely, possibility that pleases experimentalists is
 ![](https://i.imgur.com/myghHFi.png)
 
 The Z bosons decay into a pair of easily detectable charged leptons. The Higgs is most likely to decay into a heavy fermion-antifermion pair or split into a pair of massive W gauge bosons. These are much harder to detect, so the LHC collides protons many times until a more favorable decay can be observed.
-
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe class="aspect-ratio--object" width="560" height="315" src="https://www.youtube.com/embed/OFDAGiPJHL8" frameborder="0" allowfullscreen></iframe>
-</p>

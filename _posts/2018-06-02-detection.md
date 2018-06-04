@@ -13,9 +13,11 @@ The ATLAS and CMS experiments are two of the seven particle detector experiments
 
 <object>
     <param name="movie" value="teilchenidentifikation.swf">
-    <embed src="teilchenidentifikation.swf" width="100" height="100">
+    <embed src="teilchenidentifikation.swf">
     </embed>
 </object>
+
+<embed src="teilchenidentifikation.swf">
 
 ## ATLAS
 

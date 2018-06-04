@@ -11,12 +11,13 @@ The real beginnings of our story starts at the Large Hadron Collider, the larges
 
 The ATLAS and CMS experiments are two of the seven particle detector experiments within the Large Hadron Collider at CERN in Switzerland. The experiments were built on opposite sides of the complex to serve the same purpose and complement one another. In both experiments, the detecting mechanisms are built surrounding the interaction points of proton-proton collisions. Both experiments are also most well-known for their observations of the production, decay, and interactions of the Higgs boson particle.
 
-<object type="application/x-shockwave-flash"
-  data="/teilchenidentifikation.swf"
-  width="0" height="0">
-  <param name="movie" value="/teilchenidentifikation.swf" />
-  <param name="quality" value="high"/>
-</object>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <script type="text/javascript" src="swfobject.js"></script>
+
+    <script type="text/javascript">
+        swfobject.embedSWF("teilchenidentifikation.swf", "myContent", "300", "120", "9.0.0");
+    </script>
 
 ## ATLAS
 

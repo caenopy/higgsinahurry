@@ -5,9 +5,7 @@ title: "ATLAS & CMS: How we detect particles"
 # image: ...
 ---
 
-<p class="aspect-ratio aspect-ratio--16x9">
-  <iframe class="aspect-ratio--object" src="https://www.youtube.com/watch?v=pQhbhpU9Wrg" frameborder="0" allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pQhbhpU9Wrg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 The real story begins at the Large Hadron Collider, the largest most powerful particle collider in the world operated by the European Organization for Nuclear Research (CERN).
 

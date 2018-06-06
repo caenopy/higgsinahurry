@@ -23,7 +23,7 @@ The ATLAS detector consists of several concentric cylinders which can measure th
 <embed src="/teilchenidentifikation.swf" width="690" height="430">
 
 ### Inner Detectors
-The first layer of detection involves tracking charged particles as based upon their respective interaction with different materials at various points of the experiment. A magnetic field bends their paths which gives us information about each particles momentum.
+The first layer of detection involves tracking charged particles as based upon their respective interaction with different materials at various points of the experiment. A magnetic field bends their paths which gives us information about each particle's momentum.
 
 ### Electromagnetic Calorimeter
 ATLAS’s Electromagnetic Calorimeter measures the energy of electromagnetically interacting particles by sampling the energy a particle deposits in a high-density metal. High density metals include lead and copper. The lead acts as the interactor whereas the copper electrodes collect the deposited energy. Liquid argon separates the metals. Particles interacting with the lead cause a *particle shower of new photons and electrons*. Such showers will be able to displace electrons in the argon, which can be measured by the copper electrodes.
